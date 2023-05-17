@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-const Tour = ({title, image, paragraph, date, price, duration, location }) => {
+const Tour = ({ title, image, paragraph, date, price, duration, location }) => {
   return (
     <article className="tour-card">
       <div className="tour-img-container">
