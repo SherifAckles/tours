@@ -1,4 +1,4 @@
-import Title from "./title";
+import Title from "./Title";
 import { services } from "../data";
 import Service from './Service'
 const Services = () => {
