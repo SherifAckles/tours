@@ -1,4 +1,4 @@
-import Title from './title'
+import Title from './Title'
 import AboutImg from '../assets/images/about.jpeg'
 const About = () => {
   return (
